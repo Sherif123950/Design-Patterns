@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.exe
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.deps.json
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.runtimeconfig.json
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.dll
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.pdb
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.dll
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\refint\SingletonDP.dll
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.pdb
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\ref\SingletonDP.dll

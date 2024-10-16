@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\iflybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\iflybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\iquackbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\iquackbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\mullardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\mullardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RubberDuck.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\RubberDuck.cs",
+              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\RubberDuck.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\RubberDuck.cs",
+              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\RubberDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:17:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MullardDuck.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\MullardDuck.cs",
+              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\MullardDuck.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\MullardDuck.cs",
+              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\MullardDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:17:35.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuackBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
+              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
+              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:09:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFlyBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
+              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
+              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:05:44.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\Duck.cs",
+              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\Duck.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\Duck.cs",
+              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\Duck.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:00:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyDP\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\Program.cs",
+              "RelativeToolTip": "StrategyDP\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:53:55.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
