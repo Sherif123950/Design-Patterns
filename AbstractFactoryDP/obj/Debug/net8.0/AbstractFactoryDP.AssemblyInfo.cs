@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractFactoryDP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ccb9122e49bec3c84384f32be3dc36504e961bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractFactoryDP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractFactoryDP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

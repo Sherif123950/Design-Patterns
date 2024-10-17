@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}|Events\\Events.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\main components\\decaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\main components\\decaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\iflybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\iflybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\main components\\houseblend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\main components\\houseblend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\iquackbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\iquackbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\main components\\darkroastcofee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\main components\\darkroastcofee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\decorators\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\decorators\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\strategydp\\with strategy dp\\mullardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889C192F-13F1-42C5-BA74-10F182E35EDB}|StrategyDP\\StrategyDP.csproj|solutionrelative:strategydp\\with strategy dp\\mullardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\decorators\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\decorators\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\decorators\\caramel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\decorators\\caramel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\decorators\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\decorators\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\main components\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\main components\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|c:\\users\\lenovo\\source\\repos\\design patterns\\decoratordp\\main components\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F546D83-923A-4A66-B40D-2918CE69DC27}|DecoratorDP\\DecoratorDP.csproj|solutionrelative:decoratordp\\main components\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RubberDuck.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\RubberDuck.cs",
-              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\RubberDuck.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\RubberDuck.cs",
-              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\RubberDuck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:17:57.406Z",
+              "WhenOpened": "2024-10-17T10:46:28.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Decorator.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Decorators\\Decorator.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Decorator.cs",
+              "RelativeToolTip": "DecoratorDP\\Decorators\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:29:16.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MullardDuck.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\MullardDuck.cs",
-              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\MullardDuck.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\MullardDuck.cs",
-              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\MullardDuck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Mocha.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Mocha.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Decorators\\Mocha.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Mocha.cs",
+              "RelativeToolTip": "DecoratorDP\\Decorators\\Mocha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:17:35.025Z",
+              "WhenOpened": "2024-10-17T08:45:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Caramel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Caramel.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Decorators\\Caramel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Caramel.cs",
+              "RelativeToolTip": "DecoratorDP\\Decorators\\Caramel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:45:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Milk.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Decorators\\Milk.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Decorators\\Milk.cs",
+              "RelativeToolTip": "DecoratorDP\\Decorators\\Milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:45:08.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IQuackBehaviour.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
-              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
-              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\IQuackBehaviour.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wB4AAAA6AAAAAAAAAA==",
+              "Title": "DarkRoastCofee.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\DarkRoastCofee.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Main Components\\DarkRoastCofee.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\DarkRoastCofee.cs",
+              "RelativeToolTip": "DecoratorDP\\Main Components\\DarkRoastCofee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:09:44.182Z",
+              "WhenOpened": "2024-10-17T08:31:43.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IFlyBehaviour.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
-              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
-              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\IFlyBehaviour.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAvAAAAAAAAAA==",
+              "Title": "HouseBlend.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\HouseBlend.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Main Components\\HouseBlend.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\HouseBlend.cs",
+              "RelativeToolTip": "DecoratorDP\\Main Components\\HouseBlend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:05:44.745Z",
+              "WhenOpened": "2024-10-17T08:31:21.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Duck.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\Duck.cs",
-              "RelativeDocumentMoniker": "StrategyDP\\With Strategy Dp\\Duck.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\With Strategy Dp\\Duck.cs",
-              "RelativeToolTip": "StrategyDP\\With Strategy Dp\\Duck.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowCIAAAAkAAAAAAAAAA==",
+              "Title": "Decaf.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\Decaf.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Main Components\\Decaf.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\Decaf.cs",
+              "RelativeToolTip": "DecoratorDP\\Main Components\\Decaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:00:27.263Z",
+              "WhenOpened": "2024-10-17T08:31:00.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\Program.cs",
-              "RelativeDocumentMoniker": "StrategyDP\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\StrategyDP\\Program.cs",
-              "RelativeToolTip": "StrategyDP\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\Espresso.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Main Components\\Espresso.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\Espresso.cs",
+              "RelativeToolTip": "DecoratorDP\\Main Components\\Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:53:55.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:30:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\Beverage.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Main Components\\Beverage.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Main Components\\Beverage.cs",
+              "RelativeToolTip": "DecoratorDP\\Main Components\\Beverage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:28:04.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorDP\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Design Patterns\\DecoratorDP\\Program.cs",
+              "RelativeToolTip": "DecoratorDP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:44.778Z"
             }
           ]
         }

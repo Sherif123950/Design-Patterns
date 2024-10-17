@@ -5,13 +5,15 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDP", "SingletonDP\SingletonDP.csproj", "{EEACA207-F7E7-4B8A-BE59-264581B1C83B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDP", "StrategyDP\StrategyDP.csproj", "{889C192F-13F1-42C5-BA74-10F182E35EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyDP", "StrategyDP\StrategyDP.csproj", "{889C192F-13F1-42C5-BA74-10F182E35EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorDP", "DecoratorDP\DecoratorDP.csproj", "{6F546D83-923A-4A66-B40D-2918CE69DC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDP", "DecoratorDP\DecoratorDP.csproj", "{6F546D83-923A-4A66-B40D-2918CE69DC27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDP", "ObserverDP\ObserverDP.csproj", "{11F3E1E1-3C95-4633-B045-8C1A59FB096A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDP", "ObserverDP\ObserverDP.csproj", "{11F3E1E1-3C95-4633-B045-8C1A59FB096A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDP", "AbstractFactoryDP\AbstractFactoryDP.csproj", "{EC677C74-4D8C-4F2B-ACBE-25D8A9E1D0BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryDP", "AbstractFactoryDP\AbstractFactoryDP.csproj", "{EC677C74-4D8C-4F2B-ACBE-25D8A9E1D0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EC677C74-4D8C-4F2B-ACBE-25D8A9E1D0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC677C74-4D8C-4F2B-ACBE-25D8A9E1D0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC677C74-4D8C-4F2B-ACBE-25D8A9E1D0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E80EC-202B-4D62-9063-2BB6DC7A5DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
