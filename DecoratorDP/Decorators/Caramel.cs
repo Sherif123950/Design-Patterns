@@ -11,6 +11,7 @@ namespace DecoratorDP.Decorators
     {
         public Caramel(Beverage beverage):base(beverage)
         {
+
         }
         public override string Description => $"{_beverage.Description}, With caramel";
         public override decimal Cost => _beverage.Cost + 1M;

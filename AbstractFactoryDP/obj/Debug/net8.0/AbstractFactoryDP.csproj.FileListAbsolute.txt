@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\bin\Debug\net8.0\AbstractFactoryDP.exe
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\bin\Debug\net8.0\AbstractFactoryDP.deps.json
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\bin\Debug\net8.0\AbstractFactoryDP.runtimeconfig.json
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\bin\Debug\net8.0\AbstractFactoryDP.dll
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\bin\Debug\net8.0\AbstractFactoryDP.pdb
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.sourcelink.json
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.dll
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\refint\AbstractFactoryDP.dll
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.pdb
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\AbstractFactoryDP.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Design Patterns\AbstractFactoryDP\obj\Debug\net8.0\ref\AbstractFactoryDP.dll
